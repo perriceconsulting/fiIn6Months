@@ -1,0 +1,10 @@
+{
+  "indexes": [
+    {
+      "collectionId": "plans",
+      "fields": [
+        { "fieldPath": "__name__", "order": "ASCENDING" }
+      ]
+    }
+  ]
+}
